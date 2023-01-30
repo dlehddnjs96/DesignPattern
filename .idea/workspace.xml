@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dde3ab96-2675-4ac3-8863-4f6964e27ad4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DesignPattern" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KtW8HasxRJlvccgbFQbk8fmBpu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/이동원/Downloads/Study/MetaCoding/JAVA/디자인패턴/DesignPattern/src/TemplateMethodPattern&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\이동원\Downloads\Study\MetaCoding\JAVA\디자인패턴\DesignPattern\src\TemplateMethodPattern" />
+      <recent name="C:\Users\이동원\Downloads\Study\MetaCoding\JAVA\디자인패턴\DesignPattern\src\SinglePattern" />
+      <recent name="C:\Users\이동원\Downloads\Study\MetaCoding\JAVA\디자인패턴\DesignPattern\src\c_AdapterPattern" />
+      <recent name="C:\Users\이동원\Downloads\Study\MetaCoding\JAVA\디자인패턴\DesignPattern\src\ProxyPattern" />
+      <recent name="C:\Users\이동원\Downloads\Study\MetaCoding\JAVA\디자인패턴\DesignPattern\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="h_ObserverPattern.push.pub" />
+      <recent name="h_ObserverPattern.push.sub" />
+      <recent name="h_ObserverPattern.polling" />
+      <recent name="g_FactoryPattern" />
+      <recent name="f_DecoratorPattern.notification" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.h_ObserverPattern.push.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="g_FactoryPattern.Main" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="g_FactoryPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="e_TemplateMethodPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="e_TemplateMethodPattern.Main" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e_TemplateMethodPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="f_DecoratorPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="f_DecoratorPattern.Main" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="f_DecoratorPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="h_ObserverPattern.polling.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h_ObserverPattern.polling.Main" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="h_ObserverPattern.polling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="h_ObserverPattern.push.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h_ObserverPattern.push.Main" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="h_ObserverPattern.push.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.h_ObserverPattern.push.Main" />
+        <item itemvalue="Application.h_ObserverPattern.polling.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.f_DecoratorPattern.Main" />
+        <item itemvalue="Application.e_TemplateMethodPattern.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dde3ab96-2675-4ac3-8863-4f6964e27ad4" name="Changes" comment="" />
+      <created>1674794200795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674794200795</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
